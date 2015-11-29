@@ -1,0 +1,20 @@
+{
+  "name": "express-shopify-oauth",
+  "version": "1.0.0",
+  "description": "Private module that abstracts the Shopify oauth process",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Chris Gregory <chrisctiger@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "peerDependencies": {
+    "shopify-node-api": "1.4.x",
+    "express": ">= 4.13.x < 5"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "lodash": "^3.10.1"
+  }
+}
