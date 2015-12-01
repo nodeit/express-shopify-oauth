@@ -1,6 +1,5 @@
 // peer dependencies
 var router = require.main.require('express').Router();
-var shopifyAPI = require.main.require('shopify-node-api');
 
 module.exports = function(config) {
 
