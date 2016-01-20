@@ -10,7 +10,7 @@
   "license": "UNLICENSED",
   "private": true,
   "peerDependencies": {
-    "shopify-node-api": "1.4.x",
+    "shopify-node-api": ">= 1.4.x",
     "express": ">= 4.13.x < 5"
   },
   "dependencies": {
