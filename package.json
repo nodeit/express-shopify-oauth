@@ -1,6 +1,6 @@
 {
   "name": "express-shopify-oauth",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Private module that abstracts the Shopify oauth process",
   "main": "index.js",
   "scripts": {
